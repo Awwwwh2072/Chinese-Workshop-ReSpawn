@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+	"textures": {
+    "bottom": "chineseworkshoprespawn:block/andesite_pavement",
+    "top": "chineseworkshoprespawn:block/andesite_pavement",
+    "side": "chineseworkshoprespawn:block/andesite_pavement"
+  }
+}

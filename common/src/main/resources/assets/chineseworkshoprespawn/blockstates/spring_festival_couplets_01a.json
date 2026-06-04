@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "chineseworkshoprespawn:block/spring_festival_couplets_01a" },
+        "facing=east":  { "model": "chineseworkshoprespawn:block/spring_festival_couplets_01a", "y": 90 },
+        "facing=south": { "model": "chineseworkshoprespawn:block/spring_festival_couplets_01a", "y": 180 },
+        "facing=west":  { "model": "chineseworkshoprespawn:block/spring_festival_couplets_01a", "y": 270 }
+    }
+}

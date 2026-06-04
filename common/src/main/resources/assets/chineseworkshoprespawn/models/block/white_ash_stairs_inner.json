@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "top": "chineseworkshoprespawn:block/white_ash",
+    "bottom": "chineseworkshoprespawn:block/white_ash",
+    "side": "chineseworkshoprespawn:block/white_ash"
+  }
+}

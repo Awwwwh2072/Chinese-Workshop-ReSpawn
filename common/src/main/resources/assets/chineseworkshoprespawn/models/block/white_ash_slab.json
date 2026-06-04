@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+	"textures": {
+    "bottom": "chineseworkshoprespawn:block/white_ash",
+    "top": "chineseworkshoprespawn:block/white_ash",
+    "side": "chineseworkshoprespawn:block/white_ash"
+  }
+}

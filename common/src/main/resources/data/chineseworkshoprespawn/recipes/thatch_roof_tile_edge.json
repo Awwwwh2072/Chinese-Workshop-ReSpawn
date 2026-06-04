@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshoprespawn:thatch_roof_tile_edge",
+	"count": 4
+  },
+  "pattern": [
+    "* ",
+    "/*"
+  ],
+  "key": {
+    "*": {
+      "item": "minecraft:wheat"
+    },
+	"/": {
+      "tag" : "minecraft:planks"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "ingredient": {
+    "item": "chineseworkshoprespawn:painted_block"
+  },
+  "result": "chineseworkshoprespawn:painted_wall",
+  "count": 1
+}

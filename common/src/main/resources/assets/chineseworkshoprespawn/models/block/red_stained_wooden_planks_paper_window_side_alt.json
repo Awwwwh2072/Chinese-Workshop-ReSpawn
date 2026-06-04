@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_glass_pane_side_alt",
+    "textures": {
+        "edge": "chineseworkshoprespawn:block/red_stained_wooden_planks_paper_window",
+        "pane": "chineseworkshoprespawn:block/red_stained_wooden_planks_paper_window"
+    }
+}

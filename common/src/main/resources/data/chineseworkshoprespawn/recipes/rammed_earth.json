@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshoprespawn:rammed_earth"
+  },
+  "pattern": [
+    "*"
+  ],
+  "key": {
+    "*": {
+      "item" : "minecraft:dirt"
+    }
+  }
+}

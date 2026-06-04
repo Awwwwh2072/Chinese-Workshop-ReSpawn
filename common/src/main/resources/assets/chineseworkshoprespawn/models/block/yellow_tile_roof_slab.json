@@ -1,0 +1,7 @@
+{
+	"parent": "chineseworkshoprespawn:block/black_tile_roof_slab",
+	"textures": {
+		"particle": "chineseworkshoprespawn:block/yellow_tile",
+		"texture": "chineseworkshoprespawn:block/yellow_tile"
+    }
+}

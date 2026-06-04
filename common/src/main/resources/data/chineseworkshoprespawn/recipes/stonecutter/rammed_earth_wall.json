@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "ingredient": {
+    "item": "chineseworkshoprespawn:rammed_earth"
+  },
+  "result": "chineseworkshoprespawn:rammed_earth_wall",
+  "count": 1
+}

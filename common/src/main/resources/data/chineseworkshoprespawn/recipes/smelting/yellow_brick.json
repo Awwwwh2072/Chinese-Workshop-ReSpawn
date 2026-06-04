@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "result": "chineseworkshoprespawn:yellow_brick",
+  "ingredient": {
+    "item" : "chineseworkshoprespawn:yellow_clay"
+  },
+  "experience": 0.3
+}

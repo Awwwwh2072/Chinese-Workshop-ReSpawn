@@ -1,0 +1,6 @@
+{
+	"parent": "chineseworkshoprespawn:block/wall_side",
+	"textures": {
+		"particle": "chineseworkshoprespawn:block/white_ash"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshoprespawn:dougong",
+    "count": 4
+  },
+  "pattern": [
+    "***",
+    "sfs"
+  ],
+  "key": {
+    "*": {
+      "tag" : "minecraft:wooden_slabs"
+    },
+    "s": {
+      "tag" : "forge:rods/wooden"
+    },
+    "f": {
+      "tag" : "forge:fences/wooden"
+    }
+  }
+}

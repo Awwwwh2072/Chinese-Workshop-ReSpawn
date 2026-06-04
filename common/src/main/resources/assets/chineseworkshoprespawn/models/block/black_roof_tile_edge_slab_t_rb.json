@@ -1,0 +1,6 @@
+{
+	"parent": "chineseworkshoprespawn:block/black_roof_tile_edge_slab_t_w",
+	"textures": {
+		"wall": "chineseworkshoprespawn:block/rouge_brick"
+    }
+}

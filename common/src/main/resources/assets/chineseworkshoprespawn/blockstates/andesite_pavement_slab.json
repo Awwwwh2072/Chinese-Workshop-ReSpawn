@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "chineseworkshoprespawn:block/andesite_pavement_slab" },
+    "type=top": { "model": "chineseworkshoprespawn:block/andesite_pavement_slab_top" },
+    "type=double": { "model": "chineseworkshoprespawn:block/andesite_pavement" }
+  }
+}

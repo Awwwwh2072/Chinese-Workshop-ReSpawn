@@ -1,0 +1,7 @@
+{
+	"parent": "chineseworkshoprespawn:block/item_diorite_window",
+	"textures": {
+		"particle": "chineseworkshoprespawn:block/wooden_block",
+		"texture": "chineseworkshoprespawn:block/wooden_block"
+    }
+}

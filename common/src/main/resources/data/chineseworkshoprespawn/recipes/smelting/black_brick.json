@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "chineseworkshoprespawn:black_clay"
+  },
+  "result": "chineseworkshoprespawn:black_brick",
+  "experience": 0.3
+}

@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshoprespawn:bench"
+  },
+  "pattern": [
+    "**",
+    "##"
+  ],
+  "key": {
+    "*": {
+      "tag": "minecraft:wooden_pressure_plates"
+    },
+    "#": {
+      "tag": "forge:rods/wooden"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "chineseworkshoprespawn:block/black_tile_roof_ridge_edge_top",
+	"textures": {
+		"white_ash_block": "chineseworkshoprespawn:block/red_stained_wooden_planks",
+		"particle": "chineseworkshoprespawn:block/yellow_tile",
+		"texture": "chineseworkshoprespawn:block/yellow_tile"
+    }
+}

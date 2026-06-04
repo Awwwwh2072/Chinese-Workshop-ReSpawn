@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "id": "mod_id",
+    "id": "chineseworkshoprespawn",
     "version": "${version}",
     "name": "${mod_name}",
     "description": "${description}",
@@ -8,15 +8,15 @@
         "${mod_author}"
     ],
     "contact": {
-        "homepage": "https://fabricmc.net/",
-        "sources": "https://github.com/FabricMC/fabric-example-mod"
+        "homepage": "",
+        "sources": ""
     },
     "license": "${license}",
-    "icon": "assets/modid/${mod_id}.png",
+    "icon": "assets/${mod_id}/logo.png",
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.example.examplemod.ExampleMod"
+          "com.Awwwwh2072.ChineseWorkShopRespawn.ChineseWorkShopRespawn"
         ]
     },
     "mixins": [
@@ -27,7 +27,8 @@
         "fabricloader": ">=0.14",
         "fabric": "*",
         "minecraft": "${minecraft_version}",
-        "java": ">=17"
+        "java": ">=17",
+        "kiwi": ">=11"
     },
     "suggests": {
         "another-mod": "*"

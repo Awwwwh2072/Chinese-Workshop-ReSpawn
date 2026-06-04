@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "chineseworkshoprespawn:block/mendun", "y": 180 },
+        "facing=east":  { "model": "chineseworkshoprespawn:block/mendun", "y": 270 },
+        "facing=south": { "model": "chineseworkshoprespawn:block/mendun" },
+        "facing=west":  { "model": "chineseworkshoprespawn:block/mendun", "y": 90 }
+    }
+}

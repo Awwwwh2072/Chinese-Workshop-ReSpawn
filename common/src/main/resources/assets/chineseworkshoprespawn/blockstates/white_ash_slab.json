@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "chineseworkshoprespawn:block/white_ash_slab" },
+    "type=top": { "model": "chineseworkshoprespawn:block/white_ash_slab_top" },
+    "type=double": { "model": "chineseworkshoprespawn:block/white_ash_block" }
+  }
+}

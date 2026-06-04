@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "chineseworkshoprespawn:block/wooden_threshold" },
+    "facing=west": { "model": "chineseworkshoprespawn:block/wooden_threshold", "y": 90 },
+    "facing=north": { "model": "chineseworkshoprespawn:block/wooden_threshold", "y": 180 },
+    "facing=east": { "model": "chineseworkshoprespawn:block/wooden_threshold", "y": 270 }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "chineseworkshoprespawn:black_brick_slab",
+    "chineseworkshoprespawn:white_ash_slab",
+    "chineseworkshoprespawn:rammed_earth_slab",
+    "chineseworkshoprespawn:andesite_pavement_slab"
+  ]
+}

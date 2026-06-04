@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "facing=east_west": { "model": "chineseworkshoprespawn:block/thatch_roof_ridge" },
+    "facing=south_north": { "model": "chineseworkshoprespawn:block/thatch_roof_ridge", "y": 90 }
+  }
+}

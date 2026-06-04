@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "ingredient": {
+    "item": "chineseworkshoprespawn:andesite_pavement"
+  },
+  "result": "chineseworkshoprespawn:andesite_pavement_stairs",
+  "count": 1
+}

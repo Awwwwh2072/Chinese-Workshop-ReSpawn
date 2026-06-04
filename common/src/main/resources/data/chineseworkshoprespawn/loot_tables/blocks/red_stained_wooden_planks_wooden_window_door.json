@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "chineseworkshoprespawn:red_stained_wooden_planks_wooden_window_door",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ],
+          "name": "chineseworkshoprespawn:red_stained_wooden_planks_wooden_window_door"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

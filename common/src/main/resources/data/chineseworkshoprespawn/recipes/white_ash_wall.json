@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshoprespawn:white_ash_wall",
+    "count": 6
+  },
+  "pattern": [
+    "***",
+    "***"
+  ],
+  "key": {
+    "*": {
+      "item": "chineseworkshoprespawn:white_ash_block"
+    }
+  }
+}

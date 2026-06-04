@@ -1,0 +1,7 @@
+{
+	"__comment": "Designed by CityOfSkyTCD",
+	"parent": "chineseworkshoprespawn:block/threshold",
+	"textures": {
+		"particle": "chineseworkshoprespawn:block/wooden_threshold"
+	}
+}

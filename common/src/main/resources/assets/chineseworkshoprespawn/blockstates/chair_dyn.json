@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "chineseworkshoprespawn:block/chair",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "chineseworkshoprespawn:block/chair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "chineseworkshoprespawn:block/chair"
+    },
+    "facing=north": {
+      "model": "chineseworkshoprespawn:block/chair",
+      "y": 180
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "chineseworkshoprespawn:block/black_roof_tile_edge_c",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "chineseworkshoprespawn:block/black_roof_tile_edge_c"
+    },
+    "facing=south": {
+      "model": "chineseworkshoprespawn:block/black_roof_tile_edge_c",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "chineseworkshoprespawn:block/black_roof_tile_edge_c",
+      "y": 180
+    }
+  }
+}

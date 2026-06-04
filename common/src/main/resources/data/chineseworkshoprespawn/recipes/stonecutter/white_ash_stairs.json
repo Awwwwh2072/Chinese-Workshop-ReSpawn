@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "ingredient": {
+    "item": "chineseworkshoprespawn:white_ash_block"
+  },
+  "result": "chineseworkshoprespawn:white_ash_stairs",
+  "count": 1
+}

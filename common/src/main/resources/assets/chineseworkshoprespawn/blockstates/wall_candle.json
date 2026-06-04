@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "facing=east": { "model": "chineseworkshoprespawn:block/candle", "y": 90 },
+    "facing=south": { "model": "chineseworkshoprespawn:block/candle", "y": 180 },
+    "facing=west": { "model": "chineseworkshoprespawn:block/candle", "y": 270 },
+    "facing=north": { "model": "chineseworkshoprespawn:block/candle" }
+  }
+}

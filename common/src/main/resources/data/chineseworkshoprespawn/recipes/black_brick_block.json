@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshoprespawn:black_brick_block"
+  },
+  "pattern": [
+    "**",
+    "**"
+  ],
+  "key": {
+    "*": {
+      "item": "chineseworkshoprespawn:black_brick"
+    }
+  }
+}

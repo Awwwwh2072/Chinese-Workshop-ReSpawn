@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "chineseworkshoprespawn:block/threshold" },
+    "facing=west": { "model": "chineseworkshoprespawn:block/threshold", "y": 90 },
+    "facing=north": { "model": "chineseworkshoprespawn:block/threshold", "y": 180 },
+    "facing=east": { "model": "chineseworkshoprespawn:block/threshold", "y": 270 }
+  }
+}

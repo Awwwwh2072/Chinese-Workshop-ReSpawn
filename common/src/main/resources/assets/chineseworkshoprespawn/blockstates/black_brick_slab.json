@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "chineseworkshoprespawn:block/black_brick_slab" },
+    "type=top": { "model": "chineseworkshoprespawn:block/black_brick_slab_top" },
+    "type=double": { "model": "chineseworkshoprespawn:block/black_brick_block" }
+  }
+}

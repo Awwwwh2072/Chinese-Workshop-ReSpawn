@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "chineseworkshoprespawn:block/thatch_roof_tile_edge_slab",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "chineseworkshoprespawn:block/thatch_roof_tile_edge_slab"
+    },
+    "facing=south": {
+      "model": "chineseworkshoprespawn:block/thatch_roof_tile_edge_slab",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "chineseworkshoprespawn:block/thatch_roof_tile_edge_slab",
+      "y": 180
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshoprespawn:candle"
+  },
+  "pattern": [
+    "*",
+    "#"
+  ],
+  "key": {
+    "*": {
+      "item" : "minecraft:torch"
+     },
+    "#": {
+      "item": "chineseworkshoprespawn:black_brick"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+    "item": "chineseworkshoprespawn:wooden_threshold",
+	"count": 2
+  },
+  "pattern": [
+    "*",
+    "#"
+  ],
+  "key": {
+    "*": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "#": {
+      "tag": "minecraft:logs"
+    }
+  }
+}

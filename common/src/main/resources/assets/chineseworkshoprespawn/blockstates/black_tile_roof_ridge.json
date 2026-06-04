@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "facing=east_west": { "model": "chineseworkshoprespawn:block/black_roof_tile_ridge" },
+    "facing=south_north": { "model": "chineseworkshoprespawn:block/black_roof_tile_ridge", "y": 90 }
+  }
+}

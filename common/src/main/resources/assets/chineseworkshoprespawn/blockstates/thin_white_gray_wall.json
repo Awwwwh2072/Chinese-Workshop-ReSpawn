@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chineseworkshoprespawn:block/thin_white_gray_wall", "y": 90 },
+    "facing=east": { "model": "chineseworkshoprespawn:block/thin_white_gray_wall", "y": 180 },
+    "facing=south": { "model": "chineseworkshoprespawn:block/thin_white_gray_wall", "y": 270 },
+    "facing=west": { "model": "chineseworkshoprespawn:block/thin_white_gray_wall" }
+  }
+}

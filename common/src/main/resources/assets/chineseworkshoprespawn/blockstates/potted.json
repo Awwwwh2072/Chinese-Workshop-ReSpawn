@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "facing=south_north": {
+      "model": "chineseworkshoprespawn:block/potted"
+    },
+    "facing=east_west": {
+      "model": "chineseworkshoprespawn:block/potted",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "facing=south_north": { "model": "chineseworkshoprespawn:block/bench" },
+    "facing=east_west": { "model": "chineseworkshoprespawn:block/bench", "y": 90 }
+  }
+}

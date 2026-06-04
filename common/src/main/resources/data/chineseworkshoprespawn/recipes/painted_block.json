@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "result": {
+    "item": "chineseworkshoprespawn:painted_block",
+    "count": 6
+  },
+  "ingredients": [
+    {
+      "item": "chineseworkshoprespawn:red_pillar"
+    },
+    {
+      "tag" : "forge:dyes/blue"
+    },
+    {
+      "tag" : "forge:dyes/yellow"
+    },
+    {
+      "tag" : "forge:dyes/red"
+    }
+  ]
+}

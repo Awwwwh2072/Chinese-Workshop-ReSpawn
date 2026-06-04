@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "chineseworkshoprespawn:block/dark_green_pillar" },
+        "axis=z":   { "model": "chineseworkshoprespawn:block/dark_green_pillar", "x": 90 },
+        "axis=x":   { "model": "chineseworkshoprespawn:block/dark_green_pillar", "x": 90, "y": 90 }
+    }
+}
